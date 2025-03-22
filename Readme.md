@@ -1,2 +1,2 @@
 # Hello
-This is just a test!
+This is a message. An important one
